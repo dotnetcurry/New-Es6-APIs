@@ -1,0 +1,6 @@
+{
+  "name": "Language improvements in ES6",
+  "devDependencies": {
+    "traceur": "~0.0.74"
+  }
+}
